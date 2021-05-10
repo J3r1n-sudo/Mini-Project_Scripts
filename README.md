@@ -1,5 +1,5 @@
 # Mini-Project_Scripts
-Mini project scripts for Rubber Ducky 
+Mini project scripts for Rubber Ducky on Atttiny 85
 
 Contributers:-
 
